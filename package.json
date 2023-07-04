@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "prismjs": "github:trusktr/prism#patch-1"
+  }
+}
