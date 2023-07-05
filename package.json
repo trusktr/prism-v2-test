@@ -1,5 +1,10 @@
 {
+  "type": "module",
+  "scripts": {
+    "test:import": "node node-import.js",
+    "test": "npm run test:import"
+  },
   "dependencies": {
-    "prismjs": "github:trusktr/prism#patch-1"
+    "prismjs": "github:trusktr/prism#simple-esm"
   }
 }
